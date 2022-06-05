@@ -32,7 +32,7 @@
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^5.16.4",
-    "@testing-library/react": "^13.3.0",
+    "@testing-library/react": "^12.1.5",
     "@types/jest": "^28.1.1",
     "@umijs/fabric": "^2.10.0",
     "@umijs/test": "^3.5.25",
@@ -40,7 +40,6 @@
     "father-build": "^1.22.3",
     "gh-pages": "^4.0.0",
     "lint-staged": "^13.0.0",
-    "npm-check-updates": "^13.1.1",
     "prettier": "^2.6.2",
     "yorkie": "^2.0.0"
   }
